@@ -1,0 +1,86 @@
+October 27, 2015
+
+Exemption No. 11150B
+Regulatory Docket No. FAA−2014−0400
+Mr. Gregory S. Walden
+Akin Gump Strauss Hauer & Feld LLP
+Counsel for AeroCine, LLC
+1333 New Hampshire Avenue NW
+Washington, DC 20037
+Dear Mr. Walden:
+This letter is to inform you that we have partially granted your petition for an amendment
+to add the DJI Phantom 3 and DJI Inspire 1. It explains the basis for our decision, describes
+its effect, and lists any changes to the original conditions and limitations.
+By letter dated June 11, 2015, you petitioned the Federal Aviation Administration (FAA) on
+behalf of AeroCine, LLC (hereinafter petitioner or operator) for an amendment to your
+current exemption. That exemption from §§ 61.23(a) and (c), 61.101(e)(4) and (5), 61.113(a),
+61.315(a), 91.7(a), 91.119(c), 91.121, 91.151(a)(1), 91.405(a), 91.407(a)(1), 91.409(a)(1) and
+(2), and 91.417(a) and (b) of Title 14, Code of Federal Regulations (14 CFR) allows the
+petitioner to operate a UAS to perform aerial data collection and closed-set motion picture
+and television filming. You requested an amendment to add the DJI Phantom 3, DJI Inspire
+1, and the Aerobo X 12 Unmanned Aircraft System (UAS), as well as revisions to Conditions
+and Limitations 1, 13, 15, 21, 25, 26, and 27 in Exemption No. 11150A.
+In your petition, you indicate that there have been substantial changes in the conditions and
+reasons relative to public interest and safety that were the basis for granting the original
+exemption. As a result, you request the following revisions to the Conditions and Limitations:
+a. Condition No. 1: reflect the weight of the Aerobo X12, which will be in excess of 55
+pounds including payload
+b. Condition No. 13: allow approval to fly with experienced UAS operators in direct
+control of the craft, while under direct supervision of, and in direct communication
+with an FAA-licensed private, recreational or sport pilot as a VO recreational, or sport
+pilot as a VO
+c. Condition No. 15: permit night flight operations for closed set filmmaking
+
+2
+d. Condition No. 21: permit contemporaneous issuance of NOTAM for breaking news
+instead of the current requirement for 24 hour advanced notification
+e. Condition No. 25: permit the PIC to operate the UAS from a moving platform for
+closed set filmmaking
+f. Condition No. 26: permit operations over non-participating persons for breaking news
+flights with a UAS weighing no more than 4.4 pounds
+g. Condition No. 27: permit operations over persons in the airspace that is not above
+private, or controlled access property, only with permission from the owner/controller
+or authorized representative
+The FAA has determined that good cause exists for not publishing a summary of the petition
+in the Federal Register, because adding the DJI Phantom 3 and DJI Inspire 1 to the exemption
+would not set a precedent, and any delay in acting on this petition would be detrimental to the
+petitioner. The unmanned aircraft authorized in the original grant are comparable in type,
+size, weight, speed and operating capabilities to those in this petition.
+In regard to the revisions proposed to Conditions No. 1, 13, 15, 21, 25, 26, and 27, the FAA
+will conduct further analysis of the remaining substantial changes described above to
+determine precedence and safety of operations in the National Airspace System (NAS); the
+outcome of which will determine if good cause exists for publishing a summary of the petition
+in the Federal Register.
+Airworthiness Certification
+In accordance with the statutory criteria provided in Section 333 of Public Law 112−95 in
+reference to 49 U.S.C. § 44704, and in consideration of the size, weight, speed, and limited
+operating area associated with the aircraft and its operation, the Secretary of Transportation
+has determined that the DJI Phantom 3 and DJI Inspire 1 meet the conditions of Section 333.
+Therefore, the FAA finds that relief from 14 CFR part 21, Certification procedures for
+products and parts, Subpart H—Airworthiness Certificates, and any associated noise
+certification and testing requirements of part 36, is not necessary.
+Our Decision
+The FAA has determined that the justification for the issuance of Exemption No. 11150A
+remains valid and is in the public interest. Therefore, under the authority contained
+in 49 U.S.C. 106(f), 40113, and 44701, delegated to me by the Administrator, the operator is
+granted an amendment to only add new aircraft to its UAS operations.
+The operator shall add this amendment to its original exemption.
+
+3
+Conditions and Limitations
+All conditions and limitations within Grant of Exemption No. 11150A remain in effect except
+as follows. Condition No. 1 has been updated to reflect the additional aircraft.
+Failure to comply with any of the conditions and limitations of this grant of exemption will be
+grounds for the immediate suspension or rescission of this exemption.
+1. Operations authorized by this grant of exemption are limited to the Kopterworx
+Hammer X12, DJI S1000, Aerobo, DJI Phantom 3, and DJI Inspire 1, when weighing
+less than 55 pounds including payload. Proposed operations of any other aircraft will
+require a new petition or a petition to amend this exemption.
+This exemption terminates on January 31, 2017, unless sooner superseded or rescinded.
+Sincerely,
+
+/s/
+John S. Duncan
+Director, Flight Standards Service
+
+
